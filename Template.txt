@@ -1,5 +1,6 @@
 #include <iostream>
-#include lt long long int
+#include <math.h>
+#define ld long long int
 using namespace std;
 
 int main() {
